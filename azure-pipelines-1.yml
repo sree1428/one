@@ -2,8 +2,8 @@ trigger:
 - gcp
 
 variables:
-  var1: "Raham"
-  var2: "Shaik"
+  var1: "Reddy"
+  var2: "sree"
 
 pool:
   name: myone
